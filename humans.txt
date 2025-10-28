@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans behind Polaris Focus™
+
+# TEAM
+
+    Kaamos Labs - https://polarisfocus.com
+    Development, Design, Product
+
+# SITE
+
+    Last update: 2024/01/01
+    Standards: HTML5, CSS3, Accessibility
+    Components: Modern Web Technologies
+    Software: Kaamos Labs Development Tools
+
+# CREDITS
+
+    Product: Polaris Focus™
+    Brand: Polaris Focus™
+    Trademark Owner: Kaamos Labs
+    Copyright: 2024 Kaamos Labs, All Rights Reserved
+
+# THANKS
+
+    Special thanks to our users and supporters.
+

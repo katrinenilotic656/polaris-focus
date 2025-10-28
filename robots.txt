@@ -1,0 +1,20 @@
+# robots.txt for https://github.com/kaamoslabs/polaris-focus
+
+# Allow all web crawlers to index this repository
+# This repository contains public documentation and trademark information
+
+User-agent: *
+Allow: /
+
+# Disallow crawling of any hypothetical future subdirectories containing sensitive data
+# (Currently no subdirectories exist, but this provides future protection)
+
+# Note: This repository does not contain source code or proprietary materials
+# All content is documentation and legal notices only
+
+# Crawl-delay (optional - currently not set)
+# If needed in the future, add: Crawl-delay: 1
+
+# Sitemap (if available in the future)
+# Sitemap: https://github.com/kaamoslabs/polaris-focus/sitemap.xml
+
